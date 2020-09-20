@@ -1,4 +1,5 @@
-### Hi there 👋 I'm a generalist who wants to deep-dive into tech industry
+### Hi there 👋 </br>
+### I'm a generalist who wants to deep-dive into tech industry 🏊‍
 
 <p>
  🔭 I’m currently working with team AOAS <br>
