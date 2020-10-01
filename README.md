@@ -40,17 +40,17 @@ banner made with canva
 <a href="https://github.com/yekyung2/AOAS_data"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=starcli" width=350> </a> 
 <a href="https://github.com/yekyung2/Python-DataAnalysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=gtrending" width=350> </a>
 -->
- 🎯 I’m currently working with team AOAS <br>
- 📚 I’m currently learning Data analytics & visualization with Python <br>
+ 🎯 I’m currently working with team *AOAS* (stands for All Originals Are Special) <br>
+ 📚 I’m currently *learning Data analytics & visualization* with Python <br>
  💻 I’m looking to collaborate on New project <br>
 
 <hr>
 
 <strong>📫 How to reach me </strong>
    
-   1. [Instagram @skyblueyekk](https://www.instagram.com/skyblueyekk/) (recommended)
-   2. [tistory](https://deep-wide-studio.tistory.com/) (you can check out all the bloging stuff)
-   3. [email](mailto:skybluee2014@gmail.com) 
+   1. [Instagram @skyblueyekk](https://www.instagram.com/skyblueyekk/) (recommended: Quick & Easy)
+   2. [Tistory](https://deep-wide-studio.tistory.com/) (you can check out all the blogging stuff)
+   3. [Email](mailto:skybluee2014@gmail.com) 
    
 
 <br>
