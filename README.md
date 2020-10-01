@@ -49,9 +49,9 @@ banner made with canva
 <a href="https://github.com/yekyung2/AOAS_data"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=starcli" width=350> </a> 
 <a href="https://github.com/yekyung2/Python-DataAnalysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=gtrending" width=350> </a>
 -->
- 🎯 I’m currently working with team *AOAS* (stands for All Originals Are Special) <br>
- 📚 I’m currently *learning Data analytics & visualization* with Python <br>
- 💻 I’m looking to collaborate on New project <br>
+ 🎯 Working with team *AOAS* (stands for All Originals Are Special) <br>
+ 📚 Learning *Data analytics & visualization* with Python <br>
+ 👀 Looking to collaborate on New project <br>
 
 <hr>
 
