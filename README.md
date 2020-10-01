@@ -1,26 +1,4 @@
 <!--
-### Hi there 👋 </br>
-### I'm a generalist who wants to deep-dive into tech industry 🏊‍ -->
-<!--
-<p>
- 🔭 I’m currently working with team AOAS <br>
- 🌱 I’m currently learning Data analytics & visualization with Python <br>
- 👯 I’m looking to collaborate on New project <br>
- 🤔 I’m looking for help with IOS/ Back-end development <br>
- 💬 Ask me about ... <br>
- 📫 How to reach me: ... <br>
- 😄 Pronouns: ... <br>
- ⚡ Fun fact: ... <br>
-</p> 
-<br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yekyung2&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yekyung2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
--->
-
-<!-- 리뉴얼 -->
-
-<!--
 <img src="https://raw.githubusercontent.com/hedythedev/hedythedev/master/assets/hedylibanner.png" alt="Hey, I'm Hedy [banner]" />
 -->
 <!--
@@ -93,12 +71,9 @@ banner made with canva
 <!--START_SECTION:waka-->
 
 
-
-
 <!--END_SECTION:waka-->
 
-      
----
+
 
 <strong>👣 Recent Blogging Activity</strong>
 
