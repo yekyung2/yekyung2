@@ -48,7 +48,7 @@ banner made with canva
 
 <strong>📫 How to reach me </strong>
    
-   1. [Instagram @skyblueyekk](https://www.instagram.com/) (recommended)
+   1. [Instagram @skyblueyekk](https://www.instagram.com/skyblueyekk/) (recommended)
    2. [tistory](https://deep-wide-studio.tistory.com/) (you can check out all the bloging stuff)
    3. [email](mailto:skybluee2014@gmail.com) 
    
@@ -94,7 +94,7 @@ banner made with canva
 ---
 
 <!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to meet new friends and learn from each other, so if you want to be my friend, feel free to <a href="https://www.instagram.com/">reach out</a> and say hi! (don’t just say hi, tell me about yourself)</b> 😝✨👀💙</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to meet new friends and learn from each other, so if you want to be my friend, feel free to <a href="https://www.instagram.com/skyblueyekk/">reach out</a> and say hi! (don’t just say hi, tell me about yourself)</b> 😝✨👀💙</em>
 
 <!--The End, special thanks to all the wonderful people who made
 the GitHub profile readme stats/workflows to make my profile look
