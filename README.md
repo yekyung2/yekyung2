@@ -20,10 +20,10 @@ banner made with canva
 3. Editor: neovim
 -->
 
-<h3> 🙌  I'm a generalist who wants to deep-dive into tech industry 🏊‍ </h3>
+<h3> 🙌   I'm a generalist who wants to deep-dive into tech industry! </h3>
 
-<img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="500"> 
-
+<img src="https://media.giphy.com/media/S8TsC0rUwf9xGA3Hx7/giphy.gif" width="500"> 
+<!-- https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif -->
 
 <strong>📊 Statistics</strong>
 <br>
