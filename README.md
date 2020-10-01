@@ -1,6 +1,7 @@
 ### Hi there 👋 </br>
 ### I'm a generalist who wants to deep-dive into tech industry 🏊‍
 
+
 <p>
  🔭 I’m currently working with team AOAS <br>
  🌱 I’m currently learning Data analytics & visualization with Python <br>
@@ -14,4 +15,4 @@
 </p> 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yekyung2)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yekyung2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
