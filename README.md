@@ -35,14 +35,14 @@ banner made with canva
 
 
 
-<strong>🔭 Currently focusing on...</strong>
+<strong>🚀 Currently focusing on...</strong>
 <!--
 <a href="https://github.com/yekyung2/AOAS_data"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=starcli" width=350> </a> 
 <a href="https://github.com/yekyung2/Python-DataAnalysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=gtrending" width=350> </a>
 -->
- ✨ I’m currently working with team AOAS <br>
- 🌱 I’m currently learning Data analytics & visualization with Python <br>
- 👯 I’m looking to collaborate on New project <br>
+ 🎯 I’m currently working with team AOAS <br>
+ 📚 I’m currently learning Data analytics & visualization with Python <br>
+ 💻 I’m looking to collaborate on New project <br>
 
 <hr>
 
@@ -53,13 +53,13 @@ banner made with canva
    3. [email](mailto:skybluee2014@gmail.com) 
    
 
-
+<br>
 
 <strong>⚡ Fun facts</strong>
    
    - I mayjor in Philosophy 🪐
    - I *try* to do meditation 🧘‍♂️
-   - Favorite emoji: 👀 
+   - Favorite emoji: 👀✨
 
 
 
