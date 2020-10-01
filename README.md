@@ -18,3 +18,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yekyung2&show_icons=true&theme=tokyonight)
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yekyung2&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
