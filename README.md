@@ -7,8 +7,9 @@ banner made with canva
 
 <!--header2, the image below is an animated waving hand emoji-->
 <h2>Hey, I'm Scuba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
 <!--badges-->
-<img src="https://komarev.com/ghpvc/?username=yekyung2" alt="hedythedev" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />  
+<p> <img src="https://komarev.com/ghpvc/?username=yekyung2" alt="hedythedev" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />  </p>
 <!--
 <img src="https://img.shields.io/badge/%F0%9F%94%A7editor-neovim-yellow" alt="Editor: Neovim">
 -->
