@@ -45,14 +45,22 @@ banner made with canva
 3. Editor: neovim
 -->
 
+<strong>Statistics</strong>
+<br>
 
+<!-- My GitHub stats with buefy theme ❤️ -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yekyung2&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekyung2&layout=compact&theme=buefy" alt="languages" height="165">
+</p>
+
+<hr>
 
 <strong>🔭 Currently focusing on...</strong>
 <!--
 <a href="https://github.com/yekyung2/AOAS_data"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=starcli" width=350> </a> 
 <a href="https://github.com/yekyung2/Python-DataAnalysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yekyung2&repo=gtrending" width=350> </a>
 -->
- 🔭 I’m currently working with team AOAS <br>
+ ✨ I’m currently working with team AOAS <br>
  🌱 I’m currently learning Data analytics & visualization with Python <br>
  👯 I’m looking to collaborate on New project <br>
 
@@ -77,13 +85,7 @@ banner made with canva
 
 <hr>
 
-<strong>Statistics</strong>
-<br>
 
-<!-- My GitHub stats with buefy theme ❤️ -->
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yekyung2&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekyung2&layout=compact&theme=buefy" alt="languages" height="165">
-</p>
 
 
 <!--Waka readme workflow https://github.com/anmol098/waka-readme-stats/-->
