@@ -7,10 +7,6 @@ banner made with canva
 
 <!--header2, the image below is an animated waving hand emoji-->
 <h2>Hey, I'm Scuba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<h3> I'm a generalist who wants to deep-dive into tech industry 🏊‍ </h3>
-
-<img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="500"> 
-
 <!--badges-->
 <img src="https://komarev.com/ghpvc/?username=yekyung2" alt="hedythedev" /> <img src="https://img.shields.io/badge/Pronouns-She%2FHer-green" alt="pronouns: she/her" />  
 <!--
@@ -22,6 +18,11 @@ banner made with canva
 2. Pronouns: She/her
 3. Editor: neovim
 -->
+
+<h3> I'm a generalist who wants to deep-dive into tech industry 🏊‍ </h3>
+
+<img src="https://media.giphy.com/media/IwTWTsUzmIicM/giphy.gif" width="500"> 
+
 
 <strong>📊 Statistics</strong>
 <br>
