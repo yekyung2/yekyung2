@@ -31,7 +31,7 @@ banner made with canva
 <img src="https://github-readme-stats.vercel.app/api?username=yekyung2&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yekyung2&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
-<hr>
+
 
 <strong>🔭 Currently focusing on...</strong>
 <!--
@@ -42,7 +42,7 @@ banner made with canva
  🌱 I’m currently learning Data analytics & visualization with Python <br>
  👯 I’m looking to collaborate on New project <br>
 
-
+<hr>
 
 <strong>📫 How to reach me </strong>
    
