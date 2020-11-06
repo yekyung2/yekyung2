@@ -66,9 +66,9 @@ banner made with canva
 
 <strong>⚡ Fun facts</strong>
    
-I mayjor in Philosophy 🪐
-I *try* to do meditation 🧘‍♂️
-Favorite emoji: 👀✨
+I mayjor in Philosophy 🪐 <br>
+I *try* to do meditation 🧘‍♂️<br>
+Favorite emoji: 👀✨<br>
 
 
 
